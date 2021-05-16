@@ -15,6 +15,13 @@ namespace hackathon_avanaade.foms
             InitializeComponent();
         }
 
+        private void Cronometro()
+        {
+           
+        }
+
+        
+
         private void label4_Click(object sender, EventArgs e)
         {
 
@@ -45,6 +52,13 @@ namespace hackathon_avanaade.foms
             lg.Show();
 
             Hide();
+        }
+
+
+
+        private void DashFuncionarios_Load(object sender, EventArgs e)
+        {
+      
         }
     }
 }

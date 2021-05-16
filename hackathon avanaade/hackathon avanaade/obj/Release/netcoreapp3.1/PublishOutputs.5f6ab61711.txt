@@ -1,0 +1,5 @@
+C:\Users\Pichau\Desktop\aplicativo\hackathon avanaade.exe
+C:\Users\Pichau\Desktop\aplicativo\hackathon avanaade.dll
+C:\Users\Pichau\Desktop\aplicativo\hackathon avanaade.deps.json
+C:\Users\Pichau\Desktop\aplicativo\hackathon avanaade.runtimeconfig.json
+C:\Users\Pichau\Desktop\aplicativo\hackathon avanaade.pdb

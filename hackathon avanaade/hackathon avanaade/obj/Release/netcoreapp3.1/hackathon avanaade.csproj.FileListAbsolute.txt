@@ -1,0 +1,22 @@
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\bin\Release\netcoreapp3.1\hackathon avanaade.exe
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\bin\Release\netcoreapp3.1\hackathon avanaade.deps.json
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\bin\Release\netcoreapp3.1\hackathon avanaade.runtimeconfig.json
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\bin\Release\netcoreapp3.1\hackathon avanaade.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\bin\Release\netcoreapp3.1\hackathon avanaade.dll
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\bin\Release\netcoreapp3.1\hackathon avanaade.pdb
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Release\netcoreapp3.1\hackathon avanaade.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Release\netcoreapp3.1\hackathon_avanaade.foms.Cadastro.resources
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Release\netcoreapp3.1\hackathon_avanaade.foms.CadstroFuncionario.resources
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Release\netcoreapp3.1\hackathon_avanaade.foms.CampoInteiracao.resources
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Release\netcoreapp3.1\hackathon_avanaade.foms.Configuracao.resources
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Release\netcoreapp3.1\hackathon_avanaade.foms.DashFuncionarios.resources
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Release\netcoreapp3.1\hackathon_avanaade.foms.FormEmpresa.resources
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Release\netcoreapp3.1\hackathon_avanaade.foms.Login.resources
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Release\netcoreapp3.1\hackathon_avanaade.Properties.Resources.resources
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Release\netcoreapp3.1\hackathon avanaade.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Release\netcoreapp3.1\hackathon avanaade.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Release\netcoreapp3.1\hackathon avanaade.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Release\netcoreapp3.1\hackathon avanaade.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Release\netcoreapp3.1\hackathon avanaade.dll
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Release\netcoreapp3.1\hackathon avanaade.pdb
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Release\netcoreapp3.1\hackathon avanaade.genruntimeconfig.cache
