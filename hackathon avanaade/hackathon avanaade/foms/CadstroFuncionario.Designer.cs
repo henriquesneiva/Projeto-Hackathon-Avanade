@@ -114,6 +114,7 @@ namespace hackathon_avanaade.foms
             this.button1.TabIndex = 15;
             this.button1.Text = "Meta Funcionario";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -235,6 +236,7 @@ namespace hackathon_avanaade.foms
             this.button4.TabIndex = 29;
             this.button4.Text = "Filtar";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
             // 
@@ -391,6 +393,7 @@ namespace hackathon_avanaade.foms
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "CadstroFuncionario";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Sair";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();

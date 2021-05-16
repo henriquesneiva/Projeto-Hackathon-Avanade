@@ -136,6 +136,7 @@ namespace hackathon_avanaade.foms
             this.button3.TabIndex = 5;
             this.button3.Text = "Cadastrar funcionario";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // label2
             // 
@@ -238,6 +239,7 @@ namespace hackathon_avanaade.foms
             this.button4.TabIndex = 16;
             this.button4.Text = "Sair";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // pictureBox11
             // 
@@ -379,6 +381,7 @@ namespace hackathon_avanaade.foms
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "FormEmpresa";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FormEmpresa";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();

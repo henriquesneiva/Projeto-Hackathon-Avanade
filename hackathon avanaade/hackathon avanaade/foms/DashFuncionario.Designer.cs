@@ -1,7 +1,7 @@
 ﻿
 namespace hackathon_avanaade.foms
 {
-    partial class BtnSair
+    partial class DashFuncionarios
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@ namespace hackathon_avanaade.foms
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(BtnSair));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DashFuncionarios));
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.button2 = new System.Windows.Forms.Button();
@@ -118,6 +118,7 @@ namespace hackathon_avanaade.foms
             this.button2.TabIndex = 17;
             this.button2.Text = "Sair";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // label2
             // 
@@ -186,6 +187,7 @@ namespace hackathon_avanaade.foms
             this.button4.TabIndex = 24;
             this.button4.Text = "Consiguração";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
             // 
@@ -198,6 +200,7 @@ namespace hackathon_avanaade.foms
             this.button5.TabIndex = 25;
             this.button5.Text = "Campo de Interiração";
             this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // pictureBox8
             // 
@@ -512,7 +515,7 @@ namespace hackathon_avanaade.foms
             this.button8.Text = "Excluir";
             this.button8.UseVisualStyleBackColor = false;
             // 
-            // BtnSair
+            // DashFuncionarios
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -564,7 +567,8 @@ namespace hackathon_avanaade.foms
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.Name = "BtnSair";
+            this.Name = "DashFuncionarios";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Visualizar meta atual";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();

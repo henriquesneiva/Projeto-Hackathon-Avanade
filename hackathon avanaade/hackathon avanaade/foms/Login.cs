@@ -17,10 +17,28 @@ namespace hackathon_avanaade.foms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            DashbordEmpresa dash = new DashbordEmpresa();
-            dash.Show();
 
-            Hide();
+            DashFuncionarios ds = new DashFuncionarios();
+
+            if (comboBox1.Text == "funcionario")
+            {
+                ds.Show();
+                Hide();
+            }else if(comboBox1.Text == "Empresa")
+            {
+                FormEmpresa dash = new FormEmpresa();
+                dash.Show();
+
+                Hide();
+            }
+            else
+            {
+                MessageBox.Show("por favor selecione umas das opções Funcionario || Empresa");
+            }
+
+            
+
+      
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

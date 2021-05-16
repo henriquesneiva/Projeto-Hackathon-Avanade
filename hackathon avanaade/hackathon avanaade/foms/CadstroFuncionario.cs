@@ -19,5 +19,23 @@ namespace hackathon_avanaade.foms
         {
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Login lg = new Login();
+
+            lg.Show();
+
+            Hide();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FormEmpresa femp = new FormEmpresa();
+
+            femp.Show();
+
+            Hide();
+        }
     }
 }

@@ -8,19 +8,14 @@ using System.Windows.Forms;
 
 namespace hackathon_avanaade.foms
 {
-    public partial class FormEmpresa : Form
+    public partial class Configuracao : Form
     {
-        public FormEmpresa()
+        public Configuracao()
         {
             InitializeComponent();
         }
 
-        private void FormEmpresa_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button4_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
             Login lg = new Login();
 
@@ -29,11 +24,20 @@ namespace hackathon_avanaade.foms
             Hide();
         }
 
+        private void button5_Click(object sender, EventArgs e)
+        {
+            CampoInteiracao ci = new CampoInteiracao();
+
+            ci.Show();
+
+            Hide();
+        }
+
         private void button3_Click(object sender, EventArgs e)
         {
-            CadstroFuncionario cadf = new CadstroFuncionario();
+            DashFuncionarios dash = new DashFuncionarios();
 
-            cadf.Show();
+            dash.Show();
 
             Hide();
         }

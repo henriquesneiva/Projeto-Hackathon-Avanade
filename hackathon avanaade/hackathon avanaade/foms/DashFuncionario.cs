@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace hackathon_avanaade.foms
 {
-    public partial class BtnSair : Form
+    public partial class DashFuncionarios : Form
     {
-        public BtnSair()
+        public DashFuncionarios()
         {
             InitializeComponent();
         }
@@ -18,6 +18,33 @@ namespace hackathon_avanaade.foms
         private void label4_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Configuracao conf = new Configuracao();
+
+            conf.Show();
+
+            Hide();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            CampoInteiracao ci = new CampoInteiracao();
+
+            ci.Show();
+
+            Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Login lg = new Login();
+
+            lg.Show();
+
+            Hide();
         }
     }
 }
