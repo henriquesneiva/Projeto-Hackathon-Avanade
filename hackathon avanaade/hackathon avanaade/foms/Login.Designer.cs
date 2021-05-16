@@ -41,6 +41,9 @@ namespace hackathon_avanaade.foms
             // 
             // button1
             // 
+            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button1.BackColor = System.Drawing.SystemColors.HotTrack;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button1.ForeColor = System.Drawing.Color.Transparent;
@@ -56,7 +59,7 @@ namespace hackathon_avanaade.foms
             // 
             this.pictureBox1.BackgroundImage = global::hackathon_avanaade.Properties.Resources.untitled___login_da_empresa;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.pictureBox1.Location = new System.Drawing.Point(155, 17);
+            this.pictureBox1.Location = new System.Drawing.Point(155, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(72, 44);
             this.pictureBox1.TabIndex = 10;
@@ -123,6 +126,7 @@ namespace hackathon_avanaade.foms
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.comboBox1);
             this.Name = "Login";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);

@@ -8,13 +8,17 @@ using System.Windows.Forms;
 
 namespace hackathon_avanaade.foms
 {
-    public partial class DashbordEmpresa : Form
+    public partial class FormEmpresa : Form
     {
-        public DashbordEmpresa()
+        public FormEmpresa()
         {
             InitializeComponent();
         }
 
-  
+        private void FormEmpresa_Load(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }

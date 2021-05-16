@@ -16,3 +16,4 @@ C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Debug\net
 C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Debug\netcoreapp3.1\hackathon_avanaade.foms.Cadastro.resources
 C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Debug\netcoreapp3.1\hackathon_avanaade.foms.Login.resources
 C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Debug\netcoreapp3.1\hackathon_avanaade.foms.DashbordEmpresa.resources
+C:\Users\Pichau\source\repos\hackathon avanaade\hackathon avanaade\obj\Debug\netcoreapp3.1\hackathon_avanaade.foms.FormEmpresa.resources

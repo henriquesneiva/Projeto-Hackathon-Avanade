@@ -30,6 +30,8 @@ namespace hackathon_avanaade.foms
             Login tl = new Login();
 
             tl.Show();
+
+            Hide();
         }
     }
 }

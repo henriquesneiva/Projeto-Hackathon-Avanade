@@ -19,6 +19,8 @@ namespace hackathon_avanaade.foms
         {
             DashbordEmpresa dash = new DashbordEmpresa();
             dash.Show();
+
+            Hide();
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
@@ -26,6 +28,8 @@ namespace hackathon_avanaade.foms
             Cadastro cd = new Cadastro();
 
             cd.Show();
+
+            Hide();
         }
     }
 }
